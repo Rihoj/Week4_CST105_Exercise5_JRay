@@ -1,0 +1,17 @@
+This is text that needs to be jumbled based
+on row and column. I am very curious as to t
+he result of this document. Are you? I sure
+hope so! I am going to fill this space with
+some more characters to really see the exten
+t of this document. I hope I get a good grad
+e on this. I do need to remember to start co
+mmenting on my code. I just don't think that
+ many comments are useful for good code read
+ability. However, it is part of the assignme
+nt. I also need to start participating in cl
+ass more. I just don't have much useful feed
+back for anyone. Even after being in the pro
+gramming world for more than 10 years I stil
+l have a hard time giving people feedback ot
+her than "Good Job." However, that is not se
+en as helpful feedback.
